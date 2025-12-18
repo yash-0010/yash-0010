@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:yashshinde7020@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/yash-shinde/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yash-shinde-972526325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">🔗 LinkedIn</a>
 </p>
 
 ---
